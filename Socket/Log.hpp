@@ -1,3 +1,10 @@
+/*---------------------------------------------------------------------
+|  name : Liu Chuanxu;
+|  date : 2023-9-7
+|  discribe : This cpp meam to record the information in the running;
+----------------------------------------------------------------------*/
+
+
 #pragma once
 
 #include <iostream>
