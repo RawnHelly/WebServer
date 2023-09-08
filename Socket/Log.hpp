@@ -4,7 +4,6 @@
 |  discribe : This cpp meam to record the information in the running;
 ----------------------------------------------------------------------*/
 
-
 #pragma once
 
 #include <iostream>
